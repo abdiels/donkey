@@ -1,6 +1,6 @@
 # IMU
 
-IMUs or inertial measurement units are parts that sense the inertial forces on a robot. They vary depending on sensor, but may commonly include linear and rotational accelleration. They may sometimes include magnetometer to give global compasss facing dir. Frequently temperature is available from these as it affects their sensitivity.
+IMUs or inertial measurement units are parts that sense the inertial forces on a robot. They vary depending on sensor, but may commonly include linear and rotational acceleration. They may sometimes include magnetometer to give global compass facing dir. Frequently temperature is available from these as it affects their sensitivity.
 
 ## MPU6050
 This is a cheap, small, and moderately precise imu. Commonly available at [Amazon](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dindustrial&field-keywords=MPU6050).
